@@ -1,0 +1,16 @@
+{
+  "name": "js-playground",
+  "version": "0.0.0",
+  "description": "first repo - js playground",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files '**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/chrisjconley/js-playground.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
